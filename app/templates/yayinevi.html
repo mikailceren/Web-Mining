@@ -1,0 +1,15 @@
+$def with (books)
+$var title: Yayınevleri
+$var url = "/yayinevi"
+
+            <div id="templatemo_content_right"> 
+                <h1><span>YAYINEVLERİ</span></h1>
+                <ul>
+			<div class = "yazarlar">  
+                 
+                  $for book in books:
+                   <li><img src="/static/images/matbaa.jpg" alt="image" /> <br><h2>$book.yayinevi</h2></img></li>
+                  <div class="cleaner">&nbsp;</div>    	
+					</div>	
+			               
+			</ul>

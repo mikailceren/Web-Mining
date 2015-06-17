@@ -1,0 +1,18 @@
+$var title : Hakkımızda
+$var url = "/about"
+        
+       <div id="templatemo_content_right">
+	    <h1><span>Hakkımızda</span></h1>
+        	<p><b>This site designed by Mikail CEREN and Caner DEMİR.</b><br>
+<b>Group Number:21</b><br>
+<i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec dui. Donec nec neque ut quam sodales feugiat. Nam sodales, pede vel dapibus lobortis, ipsum diam molestie risus, a vulputate risus nisl pulvinar lacus.
+
+Donec at arcu. Nunc aliquam, dolor vitae sollicitudin lacinia, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. Aenean eleifend, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus. Proin dui mauris, tempor eget, pulvinar sed, pretium sit amet, dui. Proin vulputate justo et quam.
+
+In fermentum, eros ac tincidunt aliquam, elit velit semper nunc, a tincidunt orci lectus a arcu. Nullam commodo, arcu non facilisis imperdiet, felis lectus tempus felis, vitae volutpat augue ante quis leo. Aliquam tristique dolor ac odio. Sed consectetur, lacus et dictum tristique, odio neque elementum ante, nec eleifend leo dolor vel tortor.</i></p>
+            
+            <a href="http://tr.wikipedia.org/wiki/Ana_Sayfa" target="_blank"><img src="static/images/wiki_logo.jpg" style = "width: 670px;
+   height: 130px; margin-top: 30px; border: 1px dotted white;" alt="ads" /></a>
+        </div> <!-- end of content right -->
+    
+    	

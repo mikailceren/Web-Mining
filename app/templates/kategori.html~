@@ -1,0 +1,14 @@
+$var title : Kategoriler
+$var url = "/kategori"
+        
+       <div id="templatemo_content_right">
+	    <h1><span>Kategoriler</span></h1>
+        	<ul>
+				<h2><a href="/authors">Yazarlar</a></h2>
+				<h2><a href="/yayinevi">Yayın Evleri</a></h2>
+				<h2><a href="/shops">Kitapçılar</a></h2>
+			</ul>
+            <a href="http://tr.wikipedia.org/wiki/Ana_Sayfa"><img src="static/images/wiki_logo.jpg" style = "width: 670px;
+   height: 130px; margin-top: 30px; border: 1px dotted white;" alt="ads" /></a>
+        </div> <!-- end of content right -->
+    

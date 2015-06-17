@@ -1,0 +1,25 @@
+$def with(books, title, authors)
+$var title: Yazarlar
+$var url = "/authors"
+
+            <div id="templatemo_content_right"> 
+				
+                <h1><span>YAZARLARIMIZ</span></h1>
+             <ul>      
+	   
+					<div class = "yazarlar">   
+                
+			
+                  $for author in authors:
+							$ author_name = author.name.replace(" ","_")
+			
+						<li><a href = "/life/$author_name/$author.aid"><img src="/static/images/yazar.jpg" alt="image" /> <br><h2>$author.name</h2></a></li>	
+                 <div class="cleaner">&nbsp;</div>    	
+					</div>	
+			              
+			</ul>
+    
+
+				
+                
+           

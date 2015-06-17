@@ -1,0 +1,13 @@
+X-Px: ms h0-s41.p4-cdg ( h0-s23.p4-cdg), ms h0-s23.p4-cdg ( origin)
+Via: 1.1 antikor.antikor:3142 (squid/2.7.STABLE9)
+X-Cache: MISS from antikor.antikor
+Content-Encoding: gzip
+Age: 0
+Expires: Wed, 10 Jun 2015 14:22:15 GMT
+Vary: Accept-Encoding
+Server: PWS/8.1.20.9
+Last-Modified: Wed, 03 Jun 2015 14:17:03 GMT
+Etag: "354ff84a7c8ab7fe69c4ec4bca54647c"
+Cache-Control: max-age=604800
+Date: Wed, 03 Jun 2015 14:22:15 GMT
+Content-Type: image/jpeg

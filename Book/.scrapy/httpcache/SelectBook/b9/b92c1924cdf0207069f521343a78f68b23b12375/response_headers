@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=fpukp7bdujcu8697mp7go43ab3; path=/
+Set-Cookie: language=tr; expires=Tue, 02-Jun-2015 09:37:43 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Tue, 02-Jun-2015 09:37:43 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22Menan+Cinleri%22%2C%22product_id%22%3A51%2C%22image_id%22%3A280005%7D%5D; path=/
+Set-Cookie: ky_pers=3154774538.20480.0000; path=/
+Set-Cookie: TS1905ba=b98c0b571973414e41a44c6f58a03104c48b9ef45e98e21e5545eeff9c5eca85d3437a94538c7722600965598b7c4d6ea9301dba; Path=/
+Set-Cookie: TSc2d488=11a2abbab659a2d2800fe003e0de347347725e3102e72da3554174ee318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Sun, 03 May 2015 09:37:42 GMT
+Content-Type: text/html; charset=utf-8

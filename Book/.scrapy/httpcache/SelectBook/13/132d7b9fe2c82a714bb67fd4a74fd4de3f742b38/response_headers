@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=cs8nv0dfpfqnuge538oi4g3qu1; path=/
+Set-Cookie: language=tr; expires=Sat, 30-May-2015 00:17:00 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Sat, 30-May-2015 00:17:00 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22Dadalo%5Cu011flu%22%2C%22product_id%22%3A16%2C%22image_id%22%3A85002%7D%5D; path=/
+Set-Cookie: ky_pers=3356101130.20480.0000; path=/
+Set-Cookie: TS1905ba=96fb03f4ac8f57a14c67a5ef6dc78fc038b07708c28a5d9d554176b79c5eca85c1f181e1538c7722a42eb7c28b7c4d6e5138f0f0; Path=/
+Set-Cookie: TSc2d488=11a2abbab659a2d2800fe003e0de347347725e3102e72da3554174ee318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Thu, 30 Apr 2015 00:17:00 GMT
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=dms85uidk8jmdec0hjd4kqpid5; path=/
+Set-Cookie: language=tr; expires=Thu, 02-Jul-2015 10:47:45 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Thu, 02-Jul-2015 10:47:45 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22Arap+Akl%5Cu0131n%5Cu0131n+Olu%5Cu015fumu%22%2C%22product_id%22%3A529%2C%22image_id%22%3A85112%7D%5D; path=/
+Set-Cookie: ky_pers=3171551754.20480.0000; path=/
+Set-Cookie: TS1905ba=4d66f9309729811cfcc81e05841f2a31c48b9ef45e98e21e556d8d299c5eca8552f51acf538c77220db426468b7c4d6e767d5a8e; Path=/
+Set-Cookie: TSc2d488=11a2abbab659a2d2800fe003e0de347347725e3102e72da3554174ee318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Tue, 02 Jun 2015 10:47:45 GMT
+Content-Type: text/html; charset=utf-8

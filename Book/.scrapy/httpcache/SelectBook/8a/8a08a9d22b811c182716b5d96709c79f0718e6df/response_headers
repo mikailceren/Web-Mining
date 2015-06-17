@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=8tkbsv4g61k98i2e98hhkjq9v5; path=/
+Set-Cookie: language=tr; expires=Sat, 30-May-2015 00:26:38 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Sat, 30-May-2015 00:26:38 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22%5Cu015eu+Bizimkiler%22%2C%22product_id%22%3A29%2C%22image_id%22%3A280003%7D%5D; path=/
+Set-Cookie: ky_pers=3272215050.20480.0000; path=/
+Set-Cookie: TS1905ba=48387f38c44dce78092cdc0a73eae759c48b9ef45e98e21e554178d09c5eca850da96604538c7722d323eb1f8b7c4d6ecfaabeb4; Path=/
+Set-Cookie: TSc2d488=11a2abbab659a2d2800fe003e0de347347725e3102e72da3554174ee318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Thu, 30 Apr 2015 00:26:38 GMT
+Content-Type: text/html; charset=utf-8

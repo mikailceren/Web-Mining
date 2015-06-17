@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=a8qn1gd0566tdmbhv542kol015; path=/
+Set-Cookie: language=tr; expires=Thu, 02-Jul-2015 10:12:11 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Thu, 02-Jul-2015 10:12:11 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22K%5Cu00fcrtler-2+Mehabad%27dan+12+Eyl%5Cu00fcl%27e%22%2C%22product_id%22%3A209%2C%22image_id%22%3A0%7D%5D; path=/
+Set-Cookie: ky_pers=3356101130.20480.0000; path=/
+Set-Cookie: TS1905ba=d9d31a64eae49372ef7e39a5177d4aeac48b9ef45e98e21e556d841d9c5eca85a4a55b86538c7722067554a38b7c4d6e5138f0f0; Path=/
+Set-Cookie: TSc2d488=11a2abbab659a2d2800fe003e0de347347725e3102e72da3554174ee318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Tue, 02 Jun 2015 10:12:11 GMT
+Content-Type: text/html; charset=utf-8

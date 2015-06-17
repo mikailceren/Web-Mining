@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=sp0uvcbji5d7mtqjg1k2iep1o6; path=/
+Set-Cookie: language=tr; expires=Sat, 30-May-2015 00:15:52 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Sat, 30-May-2015 00:15:52 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22%5Cu015eiirde+Metafizik+Ger%5Cu00e7ek%22%2C%22product_id%22%3A18%2C%22image_id%22%3A280002%7D%5D; path=/
+Set-Cookie: ky_pers=3272215050.20480.0000; path=/
+Set-Cookie: TS1905ba=88864dc8df64f2259e32c42952bde1462e0e30244426e0a9554176bc9c5eca85fca3afbd538c772223c9a0018b7c4d6ecfaabeb4; Path=/
+Set-Cookie: TSc2d488=11a2abbab659a2d2800fe003e0de347347725e3102e72da3554174ee318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Thu, 30 Apr 2015 00:15:52 GMT
+Content-Type: text/html; charset=utf-8

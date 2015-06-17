@@ -1,0 +1,55 @@
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<ol>
+    <li>Group Members: <br>Mikail Ceren: He mostly worked on scrapy and importing data to database. Also He helped highcharts.
+					   <br>Caner Demir: He mostly worked on highcharts and importing data to database. Also He helped scrapy.</li>
+    <li><b>Description:</b> The aim of the project is to help people choosing books. The project will include many books and aggregate books' information and their short summary scraping from different web sites.</li>
+	 <li>We have 3 database table to keep our data.
+	 	<ul style="list-style-type:square">authors table:
+	 		<li><b>name:</b> it holds author's name of all books.</li>
+	 	</ul>
+	   <ul style="list-style-type:square">genres table:
+	 		<li><b>genre:</b> it holds books' genre types.</li>
+	 	</ul> 
+	 	<ul style="list-style-type:square">books table:
+	 		<li><b>title:</b> it holds title of all books.</li>
+	 		<li><b>summary:</b> it holds short summary about books.</li>
+	 		<li><b>yayınevi:</b> it holds publishing houses.</li>
+	 		<li><b>year:</b> it holds publishing year of all books.</li>
+	 		<li><b>img:</b> it holds images about books.</li>
+	 		<li><b>language:</b> it holds images about books.</li>
+	 		<li><b>price:</b> it holds the price of all books.</li>
+	 	</ul>
+	 </li>
+	 <li>We scraped our data from <a href="http://www.kitapyurdu.com/kitap/\w*/1000.html">kitapyurdu.com</a> and <a href="http://www.babil.com/urunler/1300500/" >babil.com</a>. Here are some screenshots:<br><br>
+     <img src="babil.PNG" alt="" style="width:400px;height:400px;"></img>
+	 <img src="babil-özellik.PNG" alt="" style="width:400px;height:400px;"></img><br><br>
+	 <img src="kityur-fiyat.PNG" alt="" style="width:400px;height:400px;"></img>
+	 <img src="kityur-özellik.PNG" alt="" style="width:400px;height:400px;"></img><br><br>
+	 </li>
+	 
+	 <li><b>STEPS FOR EXECUTING THIS PROJECT</b>
+	    <br>Firstly you have unzip project.zip.
+		<br>You should install python 2.7.8 using command line with this command: <b>pip install python</b>
+	    <br>You should execute <em><big>MySQL-python-1.2.3.win-amd64-py2.7.exe</big></em> in app folder.
+		<br>You should install <em><big>WampServer</big></em> for PhpMyAdmin.
+		<br>You should import <em><big>web_mining.sql</big></em> to PhpMyAdmin. It exist in app folder. Also you should arrange your password and username. 
+		<br>Now you can execute project.py using command line with this command: <b>python project.py</b>. It exist in app folder.
+		<br><b><em>**If you want to extract more data from site</em></b>
+        <br>You should install scrapy 0.24.5 using command line with this command: <b>pip install scrapy</b>
+		<br>You should go to Book or Babil folders and execute spiders command line with this command: <b>scrapy crawl SelectBook/Babilden</b>
+		<br>You should install highcharts files from <a href="www.highcharts.com">HighCharts</a>
+		
+		
+	 
+	 </li>
+
+</ol>
+
+
+
+</body>
+</html>

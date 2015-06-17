@@ -1,0 +1,126 @@
+$def with (content)
+$var title: Anasayfa
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>$content.title | Kitap Seç </title>
+<meta name="keywords" content="Book Store Template, Free CSS Template, CSS Website Layout, CSS, HTML" />
+<meta name="description" content="Book Store Template, Free CSS Template, Download CSS Website" />
+<link href="/static/templatemo_style.css" rel="stylesheet" type="text/css" />
+<link rel="Shortcut Icon"  href="/static/images/logo.jpg"  type="image/x-icon"/>
+</head>
+<script type="text/javascript" src="http://img81.xooimage.com/files/7/5/b/twitter-kusu-354069c.js"></script>
+<!--script adresi-->           <script type="text/javascript">
+var birdSprite="http://img.webme.com/pic/h/htmlkodlari34/twitter_kusu.png";
+var targetElems=new Array("img","hr","table","td","div","input","textarea","button","select","ul","ol","li",
+"h1","h2","h3","h4","p","code","object","a","b","strong","span"); 
+var twitterAccount = "http://twitter.com/mikail_ceren";
+var tweetThisText = "http://twitter.com/mikail_ceren";
+tripleflapInit();
+        </script>
+<body>
+
+<div id="templatemo_container">
+	<div id="templatemo_menu">
+	
+    	<ul>
+            <li><a href="/" class="current">Anasayfa</a></li>
+            <li><a href="/books">Kitaplar</a>
+                  <ul>
+                      <li><a href= "/ebook">E-book</a></li>
+                      <li><a href= "/books">Roman</a></li>
+                      <li><a href= "/books">Hikaye</a></li>
+                  </ul>            
+            </li>
+            <li><a href="/shops">Kitapçılar</a></li>            
+            <li class='has-sub'><a href="/kategori">Kategoriler</a>
+			      <ul>
+                      <li><a href= "/authors">Yazarlar</a></li>
+                      <li><a href= "/yayinevi">Yayın Evleri</a></li>
+                      <li><a href= "/shops">Kitapçılar</a></li>
+                  </ul> 
+			</li>  
+            <li><a href="/about">Hakkımızda</a></li> 
+            <li><a href="/contact">İletişim</a></li>
+    	</ul>
+		
+    </div> <!-- end of menu -->
+    
+    <div id="templatemo_header">
+    	<div id="templatemo_special_offers">
+        <div class="aw-slider">
+       <div>
+<a class="resim1" href="http://www.kitapyurdu.com/kitap/default.asp?id=588715" target="_blank"><img src="/static/images/steve.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+<a class="resim2" href="http://www.orhanpamuk.net/book.aspx?id=96&lng=eng" target="_blank"><img src="/static/images/masumiyet.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+<a class="resim3" href="http://www.orhanpamuk.net" target="_blank"><img src="/static/images/kafam.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+
+ </div></div>
+        </div>
+        
+        
+        <div id="templatemo_new_books">
+        	 <div class="aw-slider">
+       <div>
+<a class="resim1" href="http://www.elifsafak.com.tr/kitaplar/ustamveben.php" target="_blank"><img src="/static/images/ustam_ve_ben.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+<a class="resim2" href="http://www.ahmetumit.com/kitap-detay.asp?kitid=91" target="_blank"><img src="/static/images/beyoglu.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+<a class="resim3" href="http://www.elifsafak.com.tr/index.php" target="_blank"><img src="/static/images/sakiz_sardunya.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+ </div></div>
+        </div>
+         <div id="harita">
+    			<ul>    			 
+              <li><a href = "https://www.google.com/maps" style="width: 100px;" target="_blank">Harita</a></li>   					  
+				  <li><a href = "https://www.google.com/maps" style="width: 100px;" target="_blank">Harita</a></li> 	  
+    			
+    			</ul>
+    		</div>
+    </div> <!-- end of header -->
+    
+    <div id="templatemo_content">
+    	
+        <div id="templatemo_content_left">
+			
+			<div class="templatemo_content_left_section">
+            	<h1>Kullanıcı Girişi</h1>
+				<form>
+				
+                KullanıcıAdı :<br> <input name="isim" type="text" size="14"><br>
+				Şifre:<br> <input name="isim" type="text" size="14" style = " margin-top: 3px; margin-bottom: 3px;"> <br>
+				<input type="submit" value="Üye Ol" /><input type="submit" value="Giriş"/>
+				</form>
+            </div>
+        	<div class="templatemo_content_left_section">
+            	<h1>Kategoriler</h1>
+                <ul>
+                    <li><a href="/books">En Çok Okunanlar</a></li>
+                    <li><a href="/books">En Yeniler</a></li>                                      
+            	</ul>
+            </div>
+			<div class="templatemo_content_left_section">
+            	<h1>Çok Satanlar</h1>
+                <ul>
+                    <li><a href="/book/1">Steve Jobs</a></li>
+                    <li><a href="/book/0">Masumiyet Müzesi</a></li>
+                    <li><a href="/book/2">Sakiz Sardunya</a></li>
+                    <li><a href="/book/3">Ustam ve Ben</a></li>                    
+                    </ul>
+            </div>
+            
+                 
+ </div> <!-- end of content left -->
+        
+        $:content
+    
+    	<div class="cleaner_with_height">&nbsp;</div>
+<a href="http://tr.wikipedia.org/wiki/Ana_Sayfa" target="_blank"><img src="/static/images/wiki_logo.jpg" style = "width: 670px;
+   height: 130px; margin-top: 30px; border: 1px dotted white;"alt="ads" /></a>
+    </div> <!-- end of content -->
+
+    
+    <div id="templatemo_footer">
+    
+	       <a href="/">Anasayfa</a> | <a href="/about">Hakkımızda</a> | <a href="#">İletişim</a><br />
+        Copyright © 2014 <a href="/books"><strong>kitapseç</strong></a> | Designed by <a href="/" target="_parent" title="Okumayı Sevenlere">Caner Demir and Mikail Ceren</a><span class="templatemo_footer"></span></div>    <!-- end of footer -->
+</div> <!-- end of container -->
+</body>
+</html>

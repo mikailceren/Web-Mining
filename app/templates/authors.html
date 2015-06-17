@@ -1,0 +1,51 @@
+$def with (author_aid, genres, authors, books)
+$var title: Kitap Seç
+$var url = "/authors"
+		
+            <div id="templatemo_content_right">	
+		
+			    <h1><span>KİTAP SEÇ</span></h1>                
+                <p>
+                 <form>
+                 <select name="author">
+                 <option>Yazar Seç</option>
+                 $for author in authors:
+                    <option>$author.name</option>
+                 </select>                
+                 
+                 <select name="genre">
+                 <option>Tür Seç</option>
+                 $for genre in genres:
+                    <option>$genre.genre</option>
+                 </select> <input type="submit" value="Kitapları Göster">                 
+                 </form>
+                 $if books != []:
+				 
+	$for book in books: 
+        $ book_name = book.title.replace(" ","_")
+		
+	 <ul>      
+	   
+         <div class = "templatemo_product_box">
+		 <h1>$book.title  <span>$author_aid[book.aid]</span> </h1> 
+		 <img src="/static/images/$book.img"  alt="CSS Template" width="100" height="150" />
+		 <div class="product_info">
+                	
+					<li><b>Yayın Yılı:</b> $book.year</li>
+            	    <li><b>Yayın Evi:</b> $book.yayinevi</li>
+                    <li><b>Satıldığı Yerler:</b> <a href="http://www.kitapyurdu.com">$book.shop</a> </li>					
+                    <div class="summary_button"><a href="/book/$book_name/$book.bid">Özet Oku</a></div>                                      
+                </div>
+		
+		<div class="cleaner">&nbsp;</div>    	
+            </div>	
+			$if book.bid%3 == 2:
+			     <div class="cleaner_with_height">&nbsp;</div> 
+				
+		    $else:
+			      <div class="cleaner_with_width">&nbsp;</div>                
+    </ul>
+
+                </p>
+				
+				

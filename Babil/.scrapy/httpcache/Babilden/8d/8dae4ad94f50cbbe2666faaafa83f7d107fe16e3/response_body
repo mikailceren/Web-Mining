@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Başlıksız Belge</title>
+<style type="text/css">
+		img {
+			margin-top:60px;
+			margin-bottom:20px;
+		}
+		div {
+			font-family:Arial;
+			width:260px;
+			padding-bottom:15px;
+			padding-top:15px;
+			background-color:#FFFFFF;
+			margin:0 auto;
+			color:#fd4f00;
+			font-size:13px;
+		}
+		div a {
+			color:#fd4f00;
+		}
+		</style>
+</head>
+
+<body bgcolor="#f3f3f3" style="text-align:center;">
+<img src="img/hata1.png" alt=""/>
+<div>Anasayfaya gitmek için <a href="http://www.babil.com">tıklayınız.</a></div>
+</body>
+</html>

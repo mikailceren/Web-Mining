@@ -1,0 +1,17 @@
+
+$var title: Kitapçılar
+$var url = "/shops"
+<!-- Article -->
+            <div id="templatemo_content_right">
+			    <h1><span>Kitapçılar</span></h1> 
+                <ul>
+                      <li><a href="http://www.kitapyurdu.com">Kitap Yurdu</a></li> 
+                       					  
+				</ul>
+                
+				
+				<div class="cleaner_with_height">&nbsp;</div>
+             <a href="http://tr.wikipedia.org/wiki/Ana_Sayfa"><img src="/static/images/wiki_logo.jpg" style = "width: 670px;
+   height: 130px; margin-top: 30px; border: 1px dotted white;"alt="ads" /></a>
+            
+        </div> <!-- end of content right -->

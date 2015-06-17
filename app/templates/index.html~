@@ -1,0 +1,44 @@
+$var title : Anasayfa
+$var url = "/"
+        <div id="templatemo_content_right">
+        	<div class="anasayfa">
+            	
+   	       <a href = "/books"><img src="/static/images/kitaplar.jpg" alt="image" /> <br><h2>KİTAPLAR</h2></a>
+                
+                <div class="cleaner">&nbsp;</div>
+            </div>
+            
+            <div class="cleaner_with_width">&nbsp;</div>
+            
+            <div class="anasayfa">
+            	
+       	    <a href = "/authors"><img src="/static/images/yazar.jpg" alt="image" /> <br><h2>YAZARLAR</h2></a>
+                
+                <div class="cleaner">&nbsp;</div>
+            </div>
+            
+            <div class="cleaner_with_height">&nbsp;</div>
+            
+            <div class="anasayfa">
+            	
+   	      <a href = "/yayinevi"><img src="/static/images/matbaa.jpg" alt="image" /> <br><h2>YAYINEVLERİ</h2></a>             
+                
+                <div class="cleaner">&nbsp;</div>
+            </div>
+            
+            <div class="cleaner_with_width">&nbsp;</div>
+            
+            <div class="anasayfa">
+            	
+           <a href = "/shops"><img src="/static/images/shop.jpg" alt="image" /> <br><h2>KİTAPÇILAR</h2></a>
+             
+                <div class="cleaner">&nbsp;</div>
+            </div>
+            
+            <div class="cleaner_with_height">&nbsp;</div>
+            
+            <a href="http://tr.wikipedia.org/wiki/Ana_Sayfa"><img src="/static/images/wiki_logo.jpg" style = "width: 670px;
+   height: 130px; margin-top: 30px; border: 1px dotted white;" alt="ads" /></a>
+        </div> <!-- end of content right -->
+    
+    	

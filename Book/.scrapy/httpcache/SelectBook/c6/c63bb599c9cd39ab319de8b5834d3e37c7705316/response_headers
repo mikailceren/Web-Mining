@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=130r407f354lrsctm7a593t2d6; path=/
+Set-Cookie: language=tr; expires=Thu, 02-Jul-2015 13:42:55 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Thu, 02-Jul-2015 13:42:55 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22Mahalle+Mektebi+Hat%5Cu0131ralar%5Cu0131%22%2C%22product_id%22%3A1004%2C%22image_id%22%3A280109%7D%5D; path=/
+Set-Cookie: ky_pers=3137997322.20480.0000; path=/
+Set-Cookie: TS1905ba=ab02b15adc98195aa9a45f0037af21f74c5b57c020115f0a556db61e9c5eca859c7b3acf538c77224f02a88e8b7c4d6e4c83aa36; Path=/
+Set-Cookie: TSc2d488=195ab45312fc9b40b45cf6948734923e4c5b57c020115f0a556db61e318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Tue, 02 Jun 2015 13:42:54 GMT
+Content-Type: text/html; charset=utf-8

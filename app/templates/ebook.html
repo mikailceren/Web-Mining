@@ -1,0 +1,15 @@
+$def with (books, author_aid)
+$var url = "/ebook"
+$var title: e-book
+ <div id="templatemo_content_right">
+<h1><span>E-KİTAPLAR</span></h1>
+<table class="imagetable"style="width:100%">
+<tr><th>Kitap</th><th>Kitap Adı</th><th>Yazar</th><th>Yayın Evi</th><th>Fiyatı</th><th>Yayın Yılı</th><th>Özet</th></tr>
+$for book in books: 
+                   $ book_name = book.title.replace(" ","_")
+		
+		<tr><td><img src="/static/images/$book.img" alt="Masumiyet Müzesi" style = "height:60px; width:40px; position: right;"/></td><td>$book.title</td><td>$author_aid[book["aid"]]</td><td>$book.yayinevi</td><td>$book.price</td><td>$book.year</td><td><a href = "/book/$book_name/$book.bid">Özet Oku</a></td></tr>
+		
+</table> 
+        	
+           

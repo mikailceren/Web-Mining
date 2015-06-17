@@ -1,0 +1,16 @@
+Via: 1.1 antikor.antikor:3141 (squid/2.7.STABLE9)
+X-Cache: MISS from antikor.antikor
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=qntdtvpaj47tru4ll0a6l27gr5; path=/
+Set-Cookie: language=tr; expires=Fri, 03-Jul-2015 13:41:36 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Fri, 03-Jul-2015 13:41:36 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22T%5Cu00fcrkiye%27de+%5Cu0130slamc%5Cu0131l%5Cu0131k+D%5Cu00fc%5Cu015f%5Cu00fcncesi+1%22%2C%22product_id%22%3A1033%2C%22image_id%22%3A280111%7D%5D; path=/
+Set-Cookie: ky_pers=3255437834.20480.0000; path=/
+Set-Cookie: TS1905ba=2b56a9520379ffa76602481fb39916c2c42e92aaa1c28e80556f07639c5eca8527a99f94538c7722daf6ab2f8b7c4d6ef106eecb; Path=/
+Set-Cookie: TSc2d488=a7f425bbdcaaca9a96104932ffc70cafb1e89c9fa65d044b556db639318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Wed, 03 Jun 2015 13:41:36 GMT
+Content-Type: text/html; charset=utf-8

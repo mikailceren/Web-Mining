@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=6lu94okfu8hd82gnp6eqri1nt0; path=/
+Set-Cookie: language=tr; expires=Sat, 30-May-2015 00:08:08 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Sat, 30-May-2015 00:08:08 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22Cenab+%5Cu015eahabeddin%22%2C%22product_id%22%3A2%2C%22image_id%22%3A0%7D%5D; path=/
+Set-Cookie: ky_pers=3272215050.20480.0000; path=/
+Set-Cookie: TS1905ba=688bbc2a552c360e95bccac988d8f07701c20ce5024081a9554174ec9c5eca85e88660ea538c772274f770ee8b7c4d6ecfaabeb4; Path=/
+Set-Cookie: TSc2d488=d716e1f66d9a3b7498672cf00958d09b01c20ce5024081a9554174ec318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Thu, 30 Apr 2015 00:08:08 GMT
+Content-Type: text/html; charset=utf-8

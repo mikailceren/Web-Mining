@@ -1,0 +1,11 @@
+Via: 1.1 antikor.antikor:3140 (squid/2.7.STABLE9)
+X-Cache: MISS from antikor.antikor
+X-Powered-By: Gandalf
+Set-Cookie: Currentlanguage=1; path=/
+Set-Cookie: NSC_MC_WT_MJCSPOFU_cbcjm=ffffffff096cd4b445525d5f4f58455e445a4a423660;Version=1;Max-Age=900;path=/;httponly
+Server: Tatooine
+Serverm: 99
+Location: /errorpage/404.html?aspxerrorpath=/urunler/
+Cache-Control: private
+Date: Wed, 03 Jun 2015 15:16:56 GMT
+Content-Type: text/html; charset=utf-8

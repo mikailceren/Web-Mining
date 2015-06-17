@@ -1,0 +1,13 @@
+X-Px: ms h0-s1015.p4-ams ( h0-s1016.p4-ams), rf-ht h0-s1016.p4-ams ( origin)
+Via: 1.1 antikor.antikor:3142 (squid/2.7.STABLE9)
+X-Cache: MISS from antikor.antikor
+Content-Encoding: gzip
+Age: 0
+Expires: Tue, 02 Jun 2015 11:18:17 GMT
+Vary: Accept-Encoding
+Server: PWS/8.1.20.9
+Last-Modified: Thu, 02 Apr 2015 11:22:13 GMT
+Etag: "561297e7ad7412c845ea2fc1627b6d8c"
+Cache-Control: max-age=604800
+Date: Tue, 26 May 2015 11:18:17 GMT
+Content-Type: image/jpeg

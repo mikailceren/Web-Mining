@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Book Store Template, Free CSS Template, TemplateMo.com</title>
+<meta name="keywords" content="Book Store Template, Free CSS Template, CSS Website Layout, CSS, HTML, TemplateMo.com" />
+<meta name="description" content="Book Store Template, Free CSS Template, Download CSS Website from TemplateMo.com" />
+<link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+<link rel="Shortcut Icon"  href="images/logo.jpg"  type="image/x-icon"/>
+</head>
+<script type="text/javascript" src="http://img81.xooimage.com/files/7/5/b/twitter-kusu-354069c.js"></script>
+<!--script adresi-->           <script type="text/javascript">
+var birdSprite="http://img.webme.com/pic/h/htmlkodlari34/twitter_kusu.png";
+var targetElems=new Array("img","hr","table","td","div","input","textarea","button","select","ul","ol","li",
+"h1","h2","h3","h4","p","code","object","a","b","strong","span"); 
+var twitterAccount = "http://twitter.com/mikail_ceren";
+var tweetThisText = "http://twitter.com/mikail_ceren";
+tripleflapInit();
+        </script>
+<body>
+
+<div id="templatemo_container">
+	<div id="templatemo_menu">
+    	<ul>
+            <li><a href="index.html">Anasayfa</a></li>
+            <li><a href="index.html">Kitaplar</a>
+                  <ul>
+                      <li><a href= "subpage.html">E-book</a></li>
+                      <li><a href= "index.html">Roman</a></li>
+                      <li><a href= "index.html">Deneme</a></li>
+                  </ul>             
+            </li>
+            <li><a href="index.html">Kampanyalar</a></li>            
+            <li><a href="index.html">Kategoriler</a></li>  
+            <li><a href="#">Hakkımızda</a></li> 
+            <li><a href="#">İletişim</a></li>
+    	</ul>
+    </div> <!-- end of menu -->
+    
+    <div id="templatemo_header">
+    	<div id="templatemo_special_offers">
+         <div class="aw-slider">
+       <div>
+<a class="resim1" href="subpage.html" target="_parent"><img src="images\steve.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+<a class="resim2" href="http://www.orhanpamuk.net/book.aspx?id=96&lng=eng" target="_parent"><img src="images\masumiyet.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+<a class="resim3" href="index.html" target="_parent"><img src="images\templatemo_image_03.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+
+ </div></div>
+        </div>
+        
+        
+        <div id="templatemo_new_books">
+        	 <div class="aw-slider">
+       <div>
+<a class="resim1" href="http://www.elifsafak.com.tr/kitaplar/ustamveben.php" target="_parent"><img src="images\ustam_ve_ben.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+<a class="resim2" href="http://www.ahmetumit.com/kitap-detay.asp?kitid=91" target="_parent"><img src="images\beyoglu.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+<a class="resim3" href="http://www.elifsafak.com.tr/index.php" target="_parent"><img src="images\sakiz_sardunya.jpg" style = "width: 100px; height: 100px;"><span></span></a>
+ </div></div>
+        </div>
+        <div id="harita">
+    			<ul>
+				  <li><a href = "https://www.google.com/maps" style="width: 95px;">Harita</a></li>   			  
+    			  <li><a href = "https://www.google.com/maps" style="width: 95px;">Harita</a></li> 
+    			  <li><a href = "https://www.google.com/maps" style="width: 95px;">Harita</a></li> 
+    			</ul>
+    		</div>
+    </div> <!-- end of header -->
+    
+    <div id="templatemo_content">
+    	
+        <div id="templatemo_content_left">
+        	<div class="templatemo_content_left_section">
+            	<h1>Kategoriler</h1>
+                <ul>
+                    <li><a href="index.html">En Çok Okunanlar</a></li>
+                    <li><a href="index.html">En Yeniler</a></li>
+                    <li><a href="#">En Çok Arananlar</a></li>
+                    <li><a href="#">Aliquam tristique dolor</a></li>
+                    <li><a href="#">Maece nas metus</a></li>
+                    <li><a href="#">Sed pellentesque placerat</a></li>
+                    <li><a href="#">Suspen disse</a></li>
+                    <li><a href="#">Maece nas metus</a></li>
+                    <li><a href="#">In sed risus ac feli</a></li>
+            	</ul>
+            </div>
+			<div class="templatemo_content_left_section">
+            	<h1>Çok Satanlar</h1>
+                <ul>
+                     <li><a href="subpage.html">Steve Jobs</a></li>
+                    <li><a href="subpage2.html">Masumiyet Müzesi</a></li>
+                    <li><a href="#">In sed risus ac feli</a></li>
+                    <li><a href="#">Praesent mattis varius</a></li>
+                    <li><a href="#">Maece nas metus</a></li>
+                    <li><a href="#">In sed risus ac feli</a></li>
+                    <li><a href="http://www.flashmo.com" target="_parent">Flash Templates</a></li>
+                    <li><a href="http://www.templatemo.com" target="_parent">CSS Templates</a></li>
+                    <li><a href="http://www.webdesignmo.com" target="_parent">Web Design</a></li>
+                    <li><a href="http://www.photovaco.com" target="_parent">Free Photos</a></li>
+            	</ul>
+            </div>
+            
+            <div class="templatemo_content_left_section">
+            <a href="http://ceng.mu.edu.tr/~mceren10/public_html/proje3507/index.html">CENG - Proje3507 </a>               
+               </div>
+        </div> <!-- end of content left -->
+        
+        <div id="templatemo_content_right">
+        	
+            <h1>Steve Jobs <span>(Walter Isaacson)</span></h1>
+            <div class="image_panel"><img src="images/steve.jpg" alt="CSS Template" width="100" height="150" /></div>
+          <h2>"Ama bu işi yapmak istememin tek sebebi şu: dünyanın Apple'la daha güzel bir yer olacağını düşünüyorum."</h2>
+            <ul>
+	            <li>Yazarı: Walter <a href="http://en.wikipedia.org/wiki/Walter_Isaacson">Isaacson</a></li>
+	            <li>Çevirmen: Dost Körpe</li>
+            	<li>Yayın Yılı: 2011</li>
+            	<li>Yayın Evi: Domingo Yayınevi</li>
+               <li>Pages: 540</li>
+               <li>ISBN: 978-605-61801-8-7</li>
+               <li>Satıldığı Yerler: <a href="http://www.dr.com.tr/kitap/steve-jobs/walter-%C4%B1saacson/edebiyat/biyografi-oto-biyografi/urunno=0000000375241">dr.com</a> , <a href="http://www.kitapyurdu.com/kitap/default.asp?id=588715">Kitap Yurdu</a> </li>
+                
+            </ul>
+            
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec dui. Donec nec neque ut quam sodales feugiat. Nam sodales, pede vel dapibus lobortis, ipsum diam molestie risus, a vulputate risus nisl pulvinar lacus.</p>
+
+			<p>Donec at arcu. Nunc aliquam, dolor vitae sollicitudin lacinia, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. Aenean eleifend, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus. Proin dui mauris, tempor eget, pulvinar sed, pretium sit amet, dui. Proin vulputate justo et quam.</p>
+
+			<p>In fermentum, eros ac tincidunt aliquam, elit velit semper nunc, a tincidunt orci lectus a arcu. Nullam commodo, arcu non facilisis imperdiet, felis lectus tempus felis, vitae volutpat augue ante quis leo. Aliquam tristique dolor ac odio. Sed consectetur, lacus et dictum tristique, odio neque elementum ante, nec eleifend leo dolor vel tortor.</p>
+            
+             <div class="cleaner_with_height">&nbsp;</div>
+             <a href="http://tr.wikipedia.org/wiki/Ana_Sayfa"><img src="images/wiki_logo.jpg" style = "width: 670px;
+   height: 130px; margin-top: 30px; border: 1px dotted white;"alt="ads" /></a>
+            
+        </div> <!-- end of content right -->
+    
+    	<div class="cleaner_with_height">&nbsp;</div>
+    </div> <!-- end of content -->
+    
+    <div id="templatemo_footer">
+	         <a href="subpage.html">Anasayfa</a> | <a href="subpage.html">Kitaplar</a> | <a href="subpage.html">Kampanyalar</a> | <a href="#">Kategoriler</a> | <a href="#">Hakkımızda</a> | <a href="#">İletişim</a><br />
+        Copyright © 2014 <a href="#"><strong>kitapseç</strong></a> | Designed by <a href="index.html" target="_parent" title="Okumayı Sevenlere">Caner Demir and Mikail Ceren</a><span class="templatemo_footer">|&nbsp;<u><a href="http://www.maagraphics.com">Web Graphics</a></u>&nbsp;downloaded  from&nbsp;DH <u><a href="http://webtemplates.dezinehub.com">Website Templates</a></u></span></div> 
+    <!-- end of footer -->
+<!--  Free CSS Template www.templatemo.com -->
+</div> <!-- end of container -->
+</body>
+</html>

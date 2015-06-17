@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=1rhqoqobd496pte0h1pagdbp02; path=/
+Set-Cookie: language=tr; expires=Thu, 02-Jul-2015 13:42:52 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Thu, 02-Jul-2015 13:42:52 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22T%5Cu00fcrkiye%27de+Terc%5Cu00fcme+M%5Cu00fcesseseleri%22%2C%22product_id%22%3A1009%2C%22image_id%22%3A95113%7D%5D; path=/
+Set-Cookie: ky_pers=3255437834.20480.0000; path=/
+Set-Cookie: TS1905ba=349a008dea24d40f7620b8194c8b7dc7d1bbc1a5cd5bd487556db62a9c5eca85223e5f66538c7722091edf708b7c4d6ef106eecb; Path=/
+Set-Cookie: TSc2d488=223af55df46716032459bcb6b274fcecd1bbc1a5cd5bd487556db62a318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Tue, 02 Jun 2015 13:42:52 GMT
+Content-Type: text/html; charset=utf-8

@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=9nb75cu6nunnevgsefm7dft9t5; path=/
+Set-Cookie: language=tr; expires=Sat, 30-May-2015 01:02:36 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Sat, 30-May-2015 01:02:36 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22R%5Cu00fcveyda%22%2C%22product_id%22%3A47%2C%22image_id%22%3A95006%7D%5D; path=/
+Set-Cookie: ky_pers=3356101130.20480.0000; path=/
+Set-Cookie: TS1905ba=0aedb6fbb8b164ed326eb1fe8c6a4dbac48b9ef45e98e21e554181679c5eca8547e513b8538c77224611aba68b7c4d6e5138f0f0; Path=/
+Set-Cookie: TSc2d488=11a2abbab659a2d2800fe003e0de347347725e3102e72da3554174ee318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Thu, 30 Apr 2015 01:02:36 GMT
+Content-Type: text/html; charset=utf-8

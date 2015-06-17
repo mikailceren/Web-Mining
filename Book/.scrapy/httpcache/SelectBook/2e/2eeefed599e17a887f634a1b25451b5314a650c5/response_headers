@@ -1,0 +1,15 @@
+X-Cnection: close
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=rifhikpd7rscbfdejg5nuf9l01; path=/
+Set-Cookie: language=tr; expires=Sat, 30-May-2015 00:12:52 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Sat, 30-May-2015 00:12:52 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22Fuzuli%22%2C%22product_id%22%3A8%2C%22image_id%22%3A0%7D%5D; path=/
+Set-Cookie: ky_pers=3171551754.20480.0000; path=/
+Set-Cookie: TS1905ba=25fcd9728ae227038279ad87f091757059519f3aab7bad725541761f9c5eca858f89df94538c7722596fa2038b7c4d6e767d5a8e; Path=/
+Set-Cookie: TSc2d488=11a2abbab659a2d2800fe003e0de347347725e3102e72da3554174ee318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Thu, 30 Apr 2015 00:12:52 GMT
+Content-Type: text/html; charset=utf-8

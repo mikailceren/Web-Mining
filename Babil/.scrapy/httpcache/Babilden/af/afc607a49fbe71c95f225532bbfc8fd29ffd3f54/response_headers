@@ -1,0 +1,14 @@
+X-Powered-By: Gandalf
+Set-Cookie: ASP.NET_SessionId=oyx4dboupdgaddns5t4tjevc; path=/; HttpOnly
+Set-Cookie: Currentlanguage=1; path=/
+Set-Cookie: guestBasket=guid=3fa450f0-247d-48ba-8a93-2296cb75f3c9; expires=Fri, 03-Jul-2015 21:00:00 GMT; path=/
+Set-Cookie: NSC_MC_WT_MJCSPOFU_cbcjm=ffffffff096cd4b445525d5f4f58455e445a4a423660;Version=1;Max-Age=900;path=/;httponly
+Expires: -1
+Vary: Accept-Encoding
+Server: Tatooine
+Serverm: 99
+Pragma: no-cache
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 04 Jun 2015 12:42:12 GMT
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip

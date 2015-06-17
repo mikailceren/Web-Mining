@@ -1,0 +1,16 @@
+Via: 1.1 antikor.antikor:3142 (squid/2.7.STABLE9)
+X-Cache: MISS from antikor.antikor
+Content-Encoding: gzip
+Set-Cookie: PHPSESSID=kvjoi5jbnje090onq7a1a0dil5; path=/
+Set-Cookie: language=tr; expires=Fri, 03-Jul-2015 13:44:21 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: currency=TRY; expires=Fri, 03-Jul-2015 13:44:21 GMT; Max-Age=2592000; path=/; domain=www.kitapyurdu.com
+Set-Cookie: recent_views=%5B%7B%22name%22%3A%22Nabi+Ekol%5Cu00fc+%28Divan+Edebiyat%5Cu0131nda%29%22%2C%22product_id%22%3A1023%2C%22image_id%22%3A85231%7D%5D; path=/
+Set-Cookie: ky_pers=3288992266.20480.0000; path=/
+Set-Cookie: TS1905ba=55db28ab890d01c847fb15ac6c735fa8c42e92aaa1c28e80556f074a9c5eca85ee9c85ad538c77224016d8d98b7c4d6e8286d61d; Path=/
+Set-Cookie: TSc2d488=a7f425bbdcaaca9a96104932ffc70cafb1e89c9fa65d044b556db639318020e33025e54e134474c3c74b57fa; path=/; domain=www.kitapyurdu.com
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Wed, 03 Jun 2015 13:44:20 GMT
+Content-Type: text/html; charset=utf-8
